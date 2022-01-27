@@ -9,7 +9,7 @@
 // let userName1='Асан';
 // document.write(userName1);
 
-// let userName1='Усон';
+// userName1='Усон';
 // document.write(userName1);
 
 // 3. Напишите несколько строк кода, выводящих на экран ваше имя и почтовый адрес.
